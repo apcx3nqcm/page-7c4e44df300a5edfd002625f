@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-1820b12225.rtjkdbt.cn/sitemap.xml
